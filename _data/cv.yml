@@ -34,11 +34,11 @@ cv:
         courses: 
         highlights:
 
-      - institution: University of California, Berkeley, EECS
+      - institution: University of California, Berkeley
         location: Berkeley, CA, USA
         url: 
         area: 
-        studyType: visiting Student
+        studyType: Visiting Student
         start_date: 2023.08
         end_date: 2023.12
         score: ""
@@ -49,7 +49,7 @@ cv:
         location: Xi'an, China
         url: 
         area: 
-        studyType: undergraduate Student
+        studyType: Undergraduate Student
         start_date: 2021.09
         end_date: 2025.06
         score: ""
