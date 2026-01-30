@@ -5,5 +5,17 @@
 "PhysRev":
   url: https://journals.aps.org/
 
-"Vision":
+"ICLR":
+  color: "#009f36"
+
+"NeurIPS":
+  color: "#009f36"
+
+"arXiv":
+  color: "#009f36"
+
+"ICML":
+  color: "#009f36"
+
+"ICASSP":
   color: "#009f36"
