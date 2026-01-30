@@ -391,8 +391,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-aattended-neurips-2025-at-san-diego-good-weather-and-friends",
+          title: 'Aattended NeurIPS 2025 at San Diego! Good weather and friends!',
           description: "",
           section: "News",},{id: "news-two-papers-accepted-at-iclr-2026",
           title: 'Two papers accepted at ICLR 2026!',
