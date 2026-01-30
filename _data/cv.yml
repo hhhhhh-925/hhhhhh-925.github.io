@@ -27,23 +27,46 @@ cv:
         location: Beijing, China
         url: 
         area: 
-        studyType: PhD
+        studyType: Ph.D. Student
         start_date: 2025.09
         end_date: present
         score: ""
         courses: 
         highlights:
-
-
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+        
+    Education:
+      - institution: University of California, Berkeley, EECS
+        location: Berkeley, CA, USA
+        url: 
+        area: 
+        studyType: visiting Student
+        start_date: 2023.08
+        end_date: 2023.12
+        score: ""
+        courses: 
         highlights:
-          - Description 1.
-          - Description 2.
+        
+    Education:
+      - institution: Xi'an Jiaotong University
+        location: Xi'an, China
+        url: 
+        area: 
+        studyType: undergraduate Student
+        start_date: 2021.09
+        end_date: 2025.06
+        score: ""
+        courses: 
+        highlights:
+
+      # - institution: Eidgenössische Technische Hochschule
+      #   location: Zurich, Switzerland
+      #   area: Physics
+      #   studyType: Federal teaching diploma
+      #   start_date: 1896
+      #   end_date: 1900
+      #   highlights:
+      #     - Description 1.
+      #     - Description 2.
 
     # Experience:
     #   - company: Institute for Advanced Study, Princeton University
@@ -178,11 +201,11 @@ cv:
     #     start_date: 2018-01-01
     #     end_date: 2018-01-01
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    # References:
+    #   - name: Professor John Doe
+    #     icon: fa-solid fa-laptop
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+    #   - name: Professor Jane Smith
+    #     icon: fa-solid fa-thumbtack
+    #     reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
