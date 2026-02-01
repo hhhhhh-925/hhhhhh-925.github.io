@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Aattended NeurIPS 2025 at San Diego! Good weather and friends!
+Attended NeurIPS 2025 at San Diego! Good weather and friends!
