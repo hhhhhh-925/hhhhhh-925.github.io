@@ -28,7 +28,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi there, I am Haodong Wen (温浩东), a first-year Ph.D. student at Tsinghua University, where I am very fortunate to be advised by [Prof.Kaifeng Lyu](https://kaifeng.ac/). I graduated from Xi'an Jiaotong University with honors from [Qian xuesen honors college](https://en.xjtu.edu.cn/2021-03/22/c_605250.htm).
+Hi there, I am Haodong Wen (温浩东), a first-year Ph.D. student at Tsinghua University, where I am very fortunate to be advised by [Prof.Kaifeng Lyu](https://kaifeng.ac/). I graduated from Xi'an Jiaotong University with honors from [Qian xuesen honors college](https://en.xjtu.edu.cn/2021-03/22/c_605250.htm). I visited UC Berkeley in Fall 2023.
 
 During my undergraduate study, I am fortunate to be advised by [Prof.Kaifeng Lyu](https://kaifeng.ac/), [Prof.Yisen Wang](https://yisenwang.github.io/), [Prof.Deyu Meng](https://gr.xjtu.edu.cn/web/dymeng), and [Prof.Xiangyong Cao](https://gr.xjtu.edu.cn/web/caoxiangyong).
 
