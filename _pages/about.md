@@ -34,4 +34,4 @@ During my undergraduate study, I am fortunate to be advised by [Prof.Kaifeng Lyu
 
 My long-term goal is to discover and explain the physical principles behind deep learning. To this end, I believe we need a tight combination of theory and practice: on the one hand, we should identify and summarize important real-world phenomena and problems; on the other hand, we should develop theoretical models that can explain or address them.
 
-Recently, I’ve been particularly interested in scaling behaviors in large-model training and the training dynamics of neural networks.
+Recently, I’ve been particularly interested in scaling behaviors in large-model training, the science of data in LLM pretraining, and the training dynamics of neural networks.
