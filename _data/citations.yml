@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-01'
+  last_updated: '2026-06-10'
 papers:
   trbi9RkAAAAJ:9yKSN-GCB0IC:
     citations: 21
@@ -14,7 +14,7 @@ papers:
     title: 'Adam Reduces a Unique Form of Sharpness: Theoretical Insights Near the Minimizer Manifold'
     year: '2025'
   trbi9RkAAAAJ:d1gkVwhDpl0C:
-    citations: 30
+    citations: 31
     title: Exploring the robustness of in-context learning with noisy labels
     year: '2024'
   trbi9RkAAAAJ:u5HHmVD_uO8C:
@@ -26,6 +26,6 @@ papers:
     title: Does LLM Pre-Training Typically Occur at the Edge of Stability?
     year: '2026'
   trbi9RkAAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 6
     title: 'Larger Datasets Can Be Repeated More: A Theoretical Analysis of Multi-Epoch Scaling in Linear Regression'
     year: '2025'
