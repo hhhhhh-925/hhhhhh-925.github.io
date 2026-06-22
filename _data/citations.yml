@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-22'
 papers:
   trbi9RkAAAAJ:9yKSN-GCB0IC:
     citations: 21
@@ -26,6 +26,6 @@ papers:
     title: Does LLM Pre-Training Typically Occur at the Edge of Stability?
     year: '2026'
   trbi9RkAAAAJ:zYLM7Y9cAGgC:
-    citations: 6
+    citations: 8
     title: 'Larger Datasets Can Be Repeated More: A Theoretical Analysis of Multi-Epoch Scaling in Linear Regression'
     year: '2025'
