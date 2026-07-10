@@ -1,8 +1,12 @@
 metadata:
-  last_updated: '2026-06-22'
+  last_updated: '2026-07-10'
 papers:
+  trbi9RkAAAAJ:5nxA0vEk-isC:
+    citations: 0
+    title: 'Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D'
+    year: Unknown Year
   trbi9RkAAAAJ:9yKSN-GCB0IC:
-    citations: 21
+    citations: 24
     title: A multi-power law for loss curve prediction across learning rate schedules
     year: '2025'
   trbi9RkAAAAJ:Tyk-4Ss8FVUC:
@@ -10,11 +14,11 @@ papers:
     title: How Learning Rate Decay Wastes Your Best Data in Curriculum-Based LLM Pretraining
     year: '2025'
   trbi9RkAAAAJ:UeHWp8X0CEIC:
-    citations: 4
+    citations: 6
     title: 'Adam Reduces a Unique Form of Sharpness: Theoretical Insights Near the Minimizer Manifold'
     year: '2025'
   trbi9RkAAAAJ:d1gkVwhDpl0C:
-    citations: 31
+    citations: 33
     title: Exploring the robustness of in-context learning with noisy labels
     year: '2024'
   trbi9RkAAAAJ:u5HHmVD_uO8C:
