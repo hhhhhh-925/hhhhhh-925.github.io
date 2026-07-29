@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-07-10'
+  last_updated: '2026-07-29'
 papers:
   trbi9RkAAAAJ:5nxA0vEk-isC:
     citations: 0
     title: 'Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D'
-    year: Unknown Year
+    year: '2026'
   trbi9RkAAAAJ:9yKSN-GCB0IC:
     citations: 24
     title: A multi-power law for loss curve prediction across learning rate schedules
     year: '2025'
   trbi9RkAAAAJ:Tyk-4Ss8FVUC:
-    citations: 3
+    citations: 4
     title: How Learning Rate Decay Wastes Your Best Data in Curriculum-Based LLM Pretraining
     year: '2025'
   trbi9RkAAAAJ:UeHWp8X0CEIC:
