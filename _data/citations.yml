@@ -1,24 +1,24 @@
 metadata:
-  last_updated: '2026-07-29'
+  last_updated: '2026-08-05'
 papers:
   trbi9RkAAAAJ:5nxA0vEk-isC:
     citations: 0
     title: 'Frontier Language Models Struggle to Copy: Text Can Be Better Viewed in 2D'
     year: '2026'
   trbi9RkAAAAJ:9yKSN-GCB0IC:
-    citations: 24
+    citations: 23
     title: A multi-power law for loss curve prediction across learning rate schedules
     year: '2025'
   trbi9RkAAAAJ:Tyk-4Ss8FVUC:
-    citations: 4
+    citations: 5
     title: How Learning Rate Decay Wastes Your Best Data in Curriculum-Based LLM Pretraining
     year: '2025'
   trbi9RkAAAAJ:UeHWp8X0CEIC:
-    citations: 6
+    citations: 7
     title: 'Adam Reduces a Unique Form of Sharpness: Theoretical Insights Near the Minimizer Manifold'
     year: '2025'
   trbi9RkAAAAJ:d1gkVwhDpl0C:
-    citations: 33
+    citations: 32
     title: Exploring the robustness of in-context learning with noisy labels
     year: '2024'
   trbi9RkAAAAJ:u5HHmVD_uO8C:
@@ -26,10 +26,10 @@ papers:
     title: Rethinking the Graph Polynomial Filter via Positive and Negative Coupling Analysis
     year: '2024'
   trbi9RkAAAAJ:ufrVoPGSRksC:
-    citations: 1
+    citations: 2
     title: Does LLM Pre-Training Typically Occur at the Edge of Stability?
     year: '2026'
   trbi9RkAAAAJ:zYLM7Y9cAGgC:
-    citations: 8
+    citations: 9
     title: 'Larger Datasets Can Be Repeated More: A Theoretical Analysis of Multi-Epoch Scaling in Linear Regression'
     year: '2025'
