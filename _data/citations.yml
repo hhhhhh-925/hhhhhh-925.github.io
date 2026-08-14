@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-14'
 papers:
   trbi9RkAAAAJ:5nxA0vEk-isC:
     citations: 0
@@ -14,7 +14,7 @@ papers:
     title: How Learning Rate Decay Wastes Your Best Data in Curriculum-Based LLM Pretraining
     year: '2025'
   trbi9RkAAAAJ:UeHWp8X0CEIC:
-    citations: 7
+    citations: 8
     title: 'Adam Reduces a Unique Form of Sharpness: Theoretical Insights Near the Minimizer Manifold'
     year: '2025'
   trbi9RkAAAAJ:d1gkVwhDpl0C:
